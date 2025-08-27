@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.c5b9867f.css",
+    "main.js": "/my-portfolio/static/js/main.f5abe331.js",
+    "static/js/415.4d6acbeb.chunk.js": "/my-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/python-internship.png": "/my-portfolio/static/media/python-internship.e5ba34e80348cd4216f4.png",
+    "static/media/anab.jpg": "/my-portfolio/static/media/anab.32763df28be03df3c1e2.jpg",
+    "static/media/python.png": "/my-portfolio/static/media/python.b2c0afc39c2b12793972.png",
+    "static/media/Postman.png": "/my-portfolio/static/media/Postman.dbbd4ce25fab08e7445f.png",
+    "static/media/codeEditor.png": "/my-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Docker.png": "/my-portfolio/static/media/Docker.f555888a9b9776f875f5.png",
+    "static/media/blog.png": "/my-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/IBM.png": "/my-portfolio/static/media/IBM.92177508476e69f046f4.png",
+    "static/media/web-development.png": "/my-portfolio/static/media/web-development.f95bd1a3a96b79c6cece.png",
+    "static/media/Linux.png": "/my-portfolio/static/media/Linux.a32c14d04673c6c00dd3.png",
+    "static/media/AWS.png": "/my-portfolio/static/media/AWS.0dedfe80de0ac2b853c1.png",
+    "static/media/chatify.png": "/my-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Fatima-Resume.pdf": "/my-portfolio/static/media/Fatima-Resume.b7f8a280ceeb867c302d.pdf",
+    "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/fa_logo_2-removebg-preview1.png": "/my-portfolio/static/media/fa_logo_2-removebg-preview1.15736ddc2dd3b1998120.png",
+    "static/media/coder.svg": "/my-portfolio/static/media/coder.25e01dbf9d86307a3a697fbb18f363bc.svg",
+    "static/media/pre.svg": "/my-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.c5b9867f.css.map": "/my-portfolio/static/css/main.c5b9867f.css.map",
+    "main.f5abe331.js.map": "/my-portfolio/static/js/main.f5abe331.js.map",
+    "415.4d6acbeb.chunk.js.map": "/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b9867f.css",
+    "static/js/main.f5abe331.js"
+  ]
+}
